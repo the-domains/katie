@@ -1,0 +1,28 @@
+name: Katie
+favicon: null
+layout_spectrum: 0.7552633059676737
+typography_spectrum: 0.34563025808893144
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8595512069296092
+  lightness: 0.6526083895005286
+  saturation: 0.6712645350489765
+  rhythmicContrast: 0.8060375358909369
+purpose: []
